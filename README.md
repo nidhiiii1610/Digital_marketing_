@@ -120,7 +120,7 @@ Repository Structure
 ```
 data/Raw # GA4 Raw dataset (Excel)
 data/Cleaned #Cleaned file
-Screenshots/# Dashboard screenshots
+Images/# Dashboard screenshots
 PowerBI/ #.pbix # Power BI file
 Report_and_recommendations/ PPT file
 
